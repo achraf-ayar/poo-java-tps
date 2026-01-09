@@ -3,6 +3,13 @@
 📁 Structure du Projet
 
 ```
+├── TP1/
+│   ├── Exercice1/
+│   │   └── CalculPrix.java
+│   ├── Exercice2/
+│   │   └── SerieHarmonique.java
+│   └── Exercice3/
+│       └── NombreMagique.java
 ├── TP2/
 │   ├── GestCommandes/
 │   │   ├── Client.java
@@ -36,6 +43,12 @@
 ```
 
 🗺️ Navigation Rapide
+
+## TP1
+
+- Exercice 1 → [CalculPrix](./TP1/Exercice1/) - Calcul du prix avec remise selon la quantité
+- Exercice 2 → [SerieHarmonique](./TP1/Exercice2/) - Somme des N premiers termes de la série harmonique
+- Exercice 3 → [NombreMagique](./TP1/Exercice3/) - Jeu du nombre magique
 
 ## TP2
 
